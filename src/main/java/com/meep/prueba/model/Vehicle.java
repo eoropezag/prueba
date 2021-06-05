@@ -24,9 +24,9 @@ public class Vehicle {
 	@Column 
 	private String name;
 	@Column 
-	private Integer x;
+	private Double x;
 	@Column 
-	private Integer y;
+	private Double y;
 	@Column 
 	private String licencePlate;
 	@Column 
